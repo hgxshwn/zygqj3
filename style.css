@@ -1,0 +1,30 @@
+body.sy{
+        background:url("pic/home5.png" ) no-repeat center center fixed;	
+        margin-left:45%;
+        margin-top:23%;
+}
+
+body.gqj{
+  background-color: #f7d2b8;
+  border: 2px dotted black;
+}
+
+body{
+  font-family:sans-serif;
+  margin-left:15%;
+  margin-right:15%;
+  padding: 10px 10px 10px 10px;
+  font-size:20px
+}
+ 
+body.lm{
+  background-color: #24272e;
+  margin-right:17%;
+  margin-left:17%;
+  color:#F0FFFF
+}
+
+body.qx{
+  background-color:#25484c;
+  color:#F0FFFF
+}
